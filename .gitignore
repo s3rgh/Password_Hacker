@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/Password Hacker (Java)/task/build/
+/Password Hacker (Java)/task/out/
+/Password Hacker (Java)/task/out/production/classes/
+/Password Hacker (Java)/task/out/test/classes/
+/Topics/Functional data processing with streams/A sorted stream/out/
+/Topics/Functional data processing with streams/A sorted stream/out/production/classes/
+/Topics/Iterator and Iterable/Finding the max number/out/
+/Topics/Iterator and Iterable/Finding the max number/out/production/classes/
+/Topics/Iterator and Iterable/Hip-Hop/out/
+/Topics/Iterator and Iterable/Hip-Hop/out/production/classes/
+/Topics/Map and flatMap/Count words without repetitions/out/
+/Topics/Map and flatMap/Count words without repetitions/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Optional/Sum up optional values/out/
+/Topics/Optional/Sum up optional values/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Stream filtering/Check if a number is prime/out/
+/Topics/Stream filtering/Check if a number is prime/out/production/classes/
+/Topics/Streams of primitives/A stream without zero/out/
+/Topics/Streams of primitives/A stream without zero/out/production/classes/
